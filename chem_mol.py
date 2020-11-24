@@ -76,7 +76,6 @@ class ChemicalMolecule:
             sys.stdout, sys.stderr = _stdouterr
 
             # Load the mol file into PyMol to view its 3D model
-            cmd.get_view(0)
             cmd.load(self.my_file)
 
         else:

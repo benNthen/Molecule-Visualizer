@@ -50,7 +50,6 @@ class Protein:
             sys.stdout, sys.stderr = _stdouterr
 
             # Load the mmCif file on PyMol to view its 3D model
-            cmd.get_view(0)
             cmd.load(self.my_file)
 
         else:
