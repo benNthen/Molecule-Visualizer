@@ -33,4 +33,33 @@ Now type the following code:
 
 ### Demonstration Workflow:
 -----------
+The following will demonstrate how the workflow will retrieve molecular data online and convert to be visualised as a 3D object on PyMol simulatenously. 
 
+```python
+# Get the crystal structure of the main COVID-19 protease
+>>> protease = Protein(pdbid='6LU7')
+Downloading PDB structure '6LU7'...
+A protein with an ID matching 6LU7 was found and saved in C:\folder-name\molecular_visualiser\data\6lu7.cif
+>>>protease.show()
+Processing protein model for 6LU7 to PyMol
+ ExecutiveLoad-Detail: Detected mmCIF
+'6LU7'
+>>>  Detected OpenGL version 4.6. Shaders available.
+ Detected GLSL version 4.60.
+ License Expiry date: 01-jun-2021
+```
+[figure 1 image here]
+
+As shown in Figure 1, this workflow is able to retrieve data online and visual molecular structures in 3D using PyMol. 
+
+```python
+# Get the 3D structure of lopinavir
+>>> lopinavir = ChemicalMolecule(chemblid='CHEMBL729')
+A ChEMBL matching CHEMBL729 was found and saved in C:\Users\bened\Desktop\molecular_visualiser\data\CHEMBL729.mol
+>>>lopinavir.show()     
+Processing molecule model for CHEMBL729 to PyMol
+'CHEMBL729'
+```
+[insert figure 2 here]
+
+Figure 2 shows that it is possible to add a second molecular object to the same PyMol window simulatenously. 
