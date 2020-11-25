@@ -2,8 +2,8 @@ from __future__ import print_function
 
 import pandas as pd
 import os
-import rdkit
 import sys
+import rdkit
 import pymol
 
 from os import path
