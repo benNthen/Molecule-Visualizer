@@ -6,8 +6,9 @@
  - [Anaconda](https://www.anaconda.com/products/individual)
  - [RDKit](https://www.rdkit.org/docs/index.html) 
  - [Open-Source PyMOL](https://pymolwiki.org/index.php/Windows_Install)
- - [ChEMBL webresource client] (https://chembl.gitbook.io/chembl-interface-documentation/web-services)
+ - [ChEMBL webresource client](https://chembl.gitbook.io/chembl-interface-documentation/web-services)
  - [Biopython](https://biopython.org/)
  
- These modules were installed under a conda environment: RDKit, Open-Source PyMOL, and Biopython. 'pip install' was used for ChEMBL webresource client.
+ These modules were installed under a conda environment: RDKit, Open-Source PyMOL, and Biopython. 
+ 'pip install' was used to install ChEMBL webresource client.
 
