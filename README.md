@@ -48,9 +48,9 @@ Processing protein model for 6LU7 to PyMol
  Detected GLSL version 4.60.
  License Expiry date: 01-jun-2021
 ```
-[figure 1 image here]
+<img width="960" alt="figure1" src="https://user-images.githubusercontent.com/53241776/100229644-70893f80-2f89-11eb-8f48-d5260a566abb.png">
 
-As shown in Figure 1, this workflow is able to retrieve data online and visual molecular structures in 3D using PyMol. 
+Figure 1: The 3D structure of 6LU7.
 
 ```python
 # Get the 3D structure of lopinavir
@@ -60,6 +60,10 @@ A ChEMBL matching CHEMBL729 was found and saved in C:\Users\bened\Desktop\molecu
 Processing molecule model for CHEMBL729 to PyMol
 'CHEMBL729'
 ```
-[insert figure 2 here]
+<img width="960" alt="figure 2" src="https://user-images.githubusercontent.com/53241776/100229676-7c750180-2f89-11eb-8720-5a926934d380.png">
 
-Figure 2 shows that it is possible to add a second molecular object to the same PyMol window simulatenously. 
+Figure 2: The 3D structure of lopinavir. Added simulatenously to PyMol.
+
+<img width="362" alt="figure 3" src="https://user-images.githubusercontent.com/53241776/100230106-20f74380-2f8a-11eb-9d2a-d88b846fa55f.png">
+
+Figure 3: PyMol's camera rotated showing both molecules on the same window.
