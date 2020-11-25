@@ -13,4 +13,3 @@ from protein import Protein
 from chem_mol import ChemicalMolecule
 
 
-

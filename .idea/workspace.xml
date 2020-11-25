@@ -25,16 +25,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc5a5d4e-6890-4f7f-a9dd-e03620615643" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/molecular_visualiser.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/molecular_visualiser.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chem_mol.py" beforeDir="false" afterPath="$PROJECT_DIR$/chem_mol.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,17 +91,14 @@
       <module name="molecular_visualiser" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\bened\.conda\envs\mol\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -184,7 +178,21 @@
       <option name="project" value="LOCAL" />
       <updated>1606210173252</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="second update">
+      <created>1606300392083</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606300392083</updated>
+    </task>
+    <task id="LOCAL-00003" summary="second update">
+      <created>1606300424335</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606300424335</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -201,17 +209,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add data folder" />
-    <option name="LAST_COMMIT_MESSAGE" value="add data folder" />
+    <MESSAGE value="second update" />
+    <option name="LAST_COMMIT_MESSAGE" value="second update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="267" y="19" key="#Inspections" timestamp="1605745084002">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="267" y="19" key="#Inspections/0.0.1280.680@0.0.1280.680" timestamp="1605745084002" />
-    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606299981638">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606301732652">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1606299981638" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1606301732652" />
     <state x="795" y="26" key="FileChooserDialogImpl" timestamp="1606298692488">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -224,22 +233,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="447" y="46" key="Github.UntrackedFilesDialog/0.0.1280.680@0.0.1280.680" timestamp="1606208097844" />
-    <state width="1259" height="133" key="GridCell.Tab.0.bottom" timestamp="1606299035354">
+    <state width="1259" height="133" key="GridCell.Tab.0.bottom" timestamp="1606300484283">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="133" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1606299035354" />
-    <state width="1259" height="133" key="GridCell.Tab.0.center" timestamp="1606299035354">
+    <state width="1259" height="133" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1606300484283" />
+    <state width="1259" height="133" key="GridCell.Tab.0.center" timestamp="1606300484283">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="133" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1606299035354" />
-    <state width="1259" height="133" key="GridCell.Tab.0.left" timestamp="1606299035354">
+    <state width="1259" height="133" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1606300484283" />
+    <state width="1259" height="133" key="GridCell.Tab.0.left" timestamp="1606300484283">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="133" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1606299035354" />
-    <state width="1259" height="133" key="GridCell.Tab.0.right" timestamp="1606299035354">
+    <state width="1259" height="133" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1606300484283" />
+    <state width="1259" height="133" key="GridCell.Tab.0.right" timestamp="1606300484283">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="133" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1606299035354" />
+    <state width="1259" height="133" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1606300484283" />
     <state width="1259" height="192" key="GridCell.Tab.1.bottom" timestamp="1606280535682">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -260,9 +269,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="247" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1606300000262" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1606210188731">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1606300431728">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1606210188731" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1606300431727" />
   </component>
 </project>
