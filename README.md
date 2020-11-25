@@ -67,3 +67,5 @@ Figure 2: The 3D structure of lopinavir. Added simulatenously to PyMol.
 <img width="362" alt="figure 3" src="https://user-images.githubusercontent.com/53241776/100230106-20f74380-2f8a-11eb-9d2a-d88b846fa55f.png">
 
 Figure 3: PyMol's camera rotated showing both molecules on the same window.
+
+To end the software workflow, type `exit()'.
