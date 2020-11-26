@@ -68,4 +68,4 @@ Figure 2: The 3D structure of lopinavir. Added simulatenously to PyMol.
 
 Figure 3: PyMol's camera rotated showing both molecules on the same window.
 
-To end the software workflow, type `exit()'.
+Note that in order to end the software workflow, type `exit()` in the Python shell. This also allows the PyMol window to be closed.
