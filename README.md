@@ -17,11 +17,11 @@
 -----------
 To run the software workflow under interactive mode, open the Command Prompt.
 
-Before running the demonstration, install all the necessary modules(RDKit, PyMol and Biopython) through creating an anaconda environment through command prompt `conda create --name myenv`  where myenv is to be replaced by own environment name. Use ` pip install chembl_webresource_client` to install ChEMBL module.
+Before running the demonstration, install all the necessary modules(RDKit, PyMol and Biopython) through creating an anaconda environment through command prompt `conda create --name myenv`  where `myenv` is to be replaced by your own environment name. Use ` pip install chembl_webresource_client` to install ChEMBL module.
 
 Now enter `cd -folder-name-\molecular_visualiser` to navigate to the folder of the directory where the project has been placed in.  
 
-Then type `activate env` to open the conda environment.
+Then type `activate myenv` to open the conda environment.
 
 Now enter `python` to open the Python shell. 
 
