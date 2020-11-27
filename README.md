@@ -2,6 +2,7 @@
 
 ### Package Requirements:
 -----------
+ - Windows 10 or higher
  - Python 3.7+ or PyCharm 2019+
  - [Anaconda](https://www.anaconda.com/products/individual)
  - [RDKit](https://www.rdkit.org/docs/index.html) 
