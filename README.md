@@ -1,4 +1,4 @@
-# Python Data Retrieval Workflow
+# Molecule Visualizer
 
 ### Package Requirements:
 -----------
