@@ -12,6 +12,13 @@
  
  These modules were installed under a conda environment: RDKit, Open-Source PyMOL, and Biopython. 
  'pip install' was used to install ChEMBL webresource client.
+ 
+### Architecure:
+-----------
+The diagram below shows an overview of the software workflow system:
+
+![Molecule Visualiser architecture](/architecture.png)
+Figure 1: Molecule Visualizer architecture. 
 
 ### How to Run:
 -----------
@@ -51,7 +58,7 @@ Processing protein model for 6LU7 to PyMol
 ```
 <img width="960" alt="figure1" src="https://user-images.githubusercontent.com/53241776/100229644-70893f80-2f89-11eb-8f48-d5260a566abb.png">
 
-Figure 1: The 3D structure of 6LU7.
+Figure 2: The 3D structure of 6LU7.
 
 ```python
 # Get the 3D structure of lopinavir
@@ -63,10 +70,10 @@ Processing molecule model for CHEMBL729 to PyMol
 ```
 <img width="960" alt="figure 2" src="https://user-images.githubusercontent.com/53241776/100229676-7c750180-2f89-11eb-8720-5a926934d380.png">
 
-Figure 2: The 3D structure of lopinavir. Added simulatenously to PyMol.
+Figure 3: The 3D structure of lopinavir. Added simulatenously to PyMol.
 
 <img width="362" alt="figure 3" src="https://user-images.githubusercontent.com/53241776/100230106-20f74380-2f8a-11eb-9d2a-d88b846fa55f.png">
 
-Figure 3: PyMol's camera rotated showing both molecules on the same window.
+Figure 4: PyMol's camera rotated showing both molecules on the same window.
 
 Note that in order to end the software workflow, type `exit()` in the Python shell. This also allows the PyMol window to be closed.
